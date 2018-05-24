@@ -1,1 +1,0 @@
-var testjs = "succ";
