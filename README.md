@@ -1,1 +1,1 @@
-# This is just my GitHub homepage containing all of my code compressed on one website
+# This is just my GitHub homepage containing most of my projects and resources
