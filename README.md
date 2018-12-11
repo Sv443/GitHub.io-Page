@@ -1,1 +1,1 @@
-# This is just my GitHub homepage containing most of my projects and resources
+# This is just my GitHub homepage I use when my server is down
