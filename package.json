@@ -1,0 +1,14 @@
+{
+  "name": "apidown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api_down/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sv443",
+  "license": "MIT",
+  "dependencies": {
+    "svjsl": "^1.6.6"
+  }
+}
