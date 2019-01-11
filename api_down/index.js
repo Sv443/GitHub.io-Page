@@ -1,5 +1,5 @@
 const http = require("http");
-const reason = "My server broke and I need to reset it completely.";
+const reason = "My server broke and I need to reset it completely. Sorry :/";
 
 
 http.createServer((req, res) => {
