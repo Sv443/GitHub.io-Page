@@ -10,5 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "svjsl": "^1.6.6"
+  },
+  "scripts": {
+    "start": "api_down/index.js"
   }
 }
